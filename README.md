@@ -17,3 +17,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+<h2> Social 📱</h2>
+
+<a href="https://www.instagram.com/ali_zabihi00"> <img height="40px" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png"> </a>
