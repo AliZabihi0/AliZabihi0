@@ -1,8 +1,12 @@
-<h1 align="center">HELLO👋 , My name is Ali</h1>
+<h1 align="center">Hi , I'm Ali Zabihi 👋</h1>
+
+
+<h2>👨‍💻 &nbsp; About Me </h2>
 <ul>
-    <li>Python Back End Developer 👨‍💻</li>
-    <li>Computer engineering student 🤖</li>
-    <li>In love with the world of programming ❤️</li>
+    <li>💻 &nbsp; Python Back-End Developer </li>
+    <li>🤖 &nbsp; Computer engineering student </li>
+    <li>🌱 &nbsp; Learning django rest framework</li>
+    <li>🎮 &nbsp; I Love Codding & Play Game </li>  
 </ul>
 <br>
 
