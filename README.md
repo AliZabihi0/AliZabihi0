@@ -19,6 +19,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-<h2> Social 📱</h2>
+<br>
+<h2> Socials 📱</h2>
 
-<a href="https://www.instagram.com/ali_zabihi00"> <img height="40px" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png"> </a>
+<a href="https://www.instagram.com/ali_zabihi00"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png"> </a>
+<a href="https://t.me/Ali_bl"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png"> </a>
