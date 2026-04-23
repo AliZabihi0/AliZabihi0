@@ -22,7 +22,7 @@
 
 <br>
 
-<h2><img width="40px" hight="40px" src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5NTY3NzIsIm5iZiI6MTc3Njk1NjQ3MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIzVDE1MDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhZjU5NGE4NTEzNWQxMDAwN2FhNGFiMzIzNWYwYTNjNzM5YmMyZGQzMTk0NmUzZDE3OGMxMzBkY2NlOWU5OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lyYZvsBIfOJ_Xv6g_jO3IU4Jg-jo2gD3OpqpNwayruk"> &nbsp; GitHub Stats</h2>
+<h2><img width="30px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"> &nbsp; GitHub Stats</h2>
 
 ![Ali Zabihi GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZabihi0&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZabihi0&layout=donut&theme=synthwave)
