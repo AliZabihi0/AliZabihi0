@@ -12,21 +12,12 @@
 
 <h2> 🛠️ &nbsp; Tools </h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+<a> 
+    
+<img width="60px" hight="60px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg"> &nbsp; &nbsp; <img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg"> &nbsp; &nbsp;<img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">&nbsp; &nbsp;<img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">&nbsp; &nbsp;<img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">&nbsp; &nbsp;<img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg">&nbsp; &nbsp;<img width="80px" hight="80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">&nbsp; &nbsp;<img width="60px" hight="60px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png">
+</a>
 
 <br>
-
-
-
 
 <h2>💫 &nbsp; GitHub Stats</h2>
 
