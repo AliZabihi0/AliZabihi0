@@ -24,7 +24,20 @@
 
 
 <br>
-<h2> Socials 📱</h2>
 
-<a href="https://www.instagram.com/ali_zabihi00"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png"> </a>
-<a href="https://t.me/Ali_bl"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png"> </a>
+
+
+
+<h2>💫 &nbsp; GitHub Stats</h2>
+
+![Ali Zabihi GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZabihi0&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZabihi0&layout=donut&theme=synthwave)
+
+<br> 
+
+<h2>📞 &nbsp; Connect Me </h2>
+
+<a href="https://www.instagram.com/ali_zabihi00"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png"></a>
+&nbsp; <a href="https://t.me/Ali_bl"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png"></a>
+&nbsp; <a href="https://t.me/Ali_bl"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png"></a>
+&nbsp; <a href="mailto:0ali.zabihi0@gmail.com"> <img height="32px" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png"></a>
