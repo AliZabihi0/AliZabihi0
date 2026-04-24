@@ -9,7 +9,7 @@
     <li>💻 &nbsp; Python Back-End Developer </li>
     <li>🤖 &nbsp; Computer engineering student </li>
     <li>🌱 &nbsp; Learning django rest framework</li>
-    <li>🎮 &nbsp; I Love Codding & Play Game </li>  
+    <li>🎮 &nbsp; I Love Codding & Playing Game </li>  
 </ul>
 <br>
 
