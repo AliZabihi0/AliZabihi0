@@ -22,12 +22,6 @@
 
 <br>
 
-<h2><img width="30px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"> &nbsp; GitHub Stats</h2>
-
-![Ali Zabihi GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZabihi0&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZabihi0&layout=donut&theme=synthwave)
-
-<br> 
 
 <h2><img width="60px" hight="60px" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"> &nbsp; Connect Me </h2>
 
